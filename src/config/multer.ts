@@ -11,8 +11,6 @@ export default {
 
       const fileName = `${hash}-${file.originalname}`;
 
-      console.log(`FileName: <${fileName}>`);
-
       // params: error, fileName
       callback(null, fileName);
     }
