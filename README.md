@@ -1,6 +1,5 @@
 # New Level Week 01 - Backend
-
-Frontend web of ECOLETA application, using Typescript, Javascript, and NodeJS.
+Backend of ECOLETA application, using Typescript, Javascript, and NodeJS.
 
 ## Routes
 ### get '/items'
